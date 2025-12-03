@@ -17,4 +17,4 @@ main-image: /img01.png
 
 ---
 
-{% include image-gallery.html images="img08.png, img07.png, img05.png, img06.png, img01.png, img02.png, img03.png, img04.png" height="500" %} 
+{% include image-gallery.html images="img01.png, img02.png" height="500" %} 
