@@ -8,11 +8,11 @@ skills:
   - Clash Detection
 
 main-image: /mci-img1.png
+---
+
 
 ## Information
 1. Client: IPPUC
 2. Location: Curitiba - PR, Brazil
-
----
 
 {% include image-gallery.html images="mci-img1.png" height="400" %} 

@@ -10,12 +10,13 @@ skills:
   - Clash Detection
 
 main-image: /cfsc-img01.png
+---
 
 ## Information
 
 1. Client: SIE-PR
 2. Location: SC, Brazil
 
----
+
 
 {% include image-gallery.html images="cfsc-img01.png, cfsc-img02.png" height="500" %} 
