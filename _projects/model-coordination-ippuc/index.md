@@ -7,7 +7,7 @@ skills:
   - Coordination
   - Clash Detection
 
-main-image: /project1.png
+main-image: /mci-img1.png
 
 ## Information
 1. Client: IPPUC
@@ -15,4 +15,4 @@ main-image: /project1.png
 
 ---
 
-{% include image-gallery.html images="img1.png" height="400" %} 
+{% include image-gallery.html images="mci-img1.png" height="400" %} 
