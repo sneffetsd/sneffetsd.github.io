@@ -17,6 +17,3 @@ main-image: /project1.png
 ## Information
 1. Client: IPPUC
 2. Location: Curitiba - PR, Brazil
-
-### Description
-Urban project model, with full urban planning represented, paving, drainage, topography, expropriation, signage, bridges, street light, cable and electrical systems, and other complementary elements.
