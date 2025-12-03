@@ -3,11 +3,10 @@ layout: post
 title: Santa Catarina Rail Corridor
 description: Basic project of the railway corridor of Santa Catarina, Brazil.
 skills: 
-  - Navisworks
   - Design
   - Modeling
+  - Railway
   - Coordination
-  - Clash Detection
 
 main-image: /cfsc-img01.png
 ---
